@@ -43,7 +43,7 @@ degrees:
     scale: CGPA
     achieved: 3.5
     outOf: 4
-  Core Courses: #(optional)
+  takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
