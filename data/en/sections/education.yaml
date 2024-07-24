@@ -30,15 +30,15 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Master of IT in Business- Analytics
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: Aug 2023-Nov 2024 (Expected)
   institution:
-    name: University of XYZ
+    name: Singapore Management University
     url: "#"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/SMU.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/university.jpg
+    # darkLogo: /images/sections/education/SMU.png
   grade: #(optional)
     scale: CGPA
     achieved: 3.5
