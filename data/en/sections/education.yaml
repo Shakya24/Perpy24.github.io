@@ -49,6 +49,18 @@ degrees:
     - name: Big Data Tools and Technologies
       achieved: 3.75
       outOf: 4
+    - name: Data Analytics Lab using SAS Viya
+      achieved: 3.75
+      outOf: 4
+    - name: Python Programming and Data Analysis
+      achieved: 3.75
+      outOf: 4
+    - name: Applied Statistical Analysis using R
+      achieved: 3.75
+      outOf: 4
+    - name: Cybersecurity Technology and Applications
+      achieved: 3.75
+      outOf: 4
       
 - name: Bachelor of Technology in Electronics and Communication Engineering
   icon: fa-graduation-cap
