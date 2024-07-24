@@ -16,7 +16,7 @@ accomplishments:
   organization:
     name: Alteryx
     #url: https://www.linuxfoundation.org
-  #courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  courseOverview: Earners of this certification have a thorough understanding of the Alteryx Designer environment. They are able to use the core toolset to clean, prepare, blend, parse, transform, and analyze data. Earners have demonstrated their ability to use the tools to solve real-world analytics problems.
   certificateURL: "https://www.credly.com/badges/6452a03a-0434-4413-a142-6fdcc41577d0"
 
 - name: Advanced Microsoft Power BI
@@ -24,7 +24,7 @@ accomplishments:
   organization:
     name: LinkedIn Learning
     #url: https://www.coursera.org
-  #courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  courseOverview: This course provides hands-on experience to work with calculations, leverage the DAX language, create advanced queries, and use the M language to improve the querying process. The course also demonstrates how to import data from various sources, compose advanced formulas, manage the fields and columns in tables, use conditional statements, filter results, design charts, and more.
   certificateURL: "https://www.linkedin.com/learning/certificates/295bd313faf80ac74ab141f10a42c27f8e1ff4f0c85d2f497a794ae500c6372d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B03FAlclkTomWur1Wuv%2F8yQ%3D%3D"
 
 - name: EY Analytics - Data science - Bronze 
@@ -32,7 +32,7 @@ accomplishments:
   organization:
     name: EY
     #url: https://www.educative.io
-  #courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+  courseOverview:Earners of this badge have a basic understanding of data science fundamental concepts, tools and applications for machine learning and advanced data analysis. They are able to extract relevant business knowledge and insights from data using a range of tools and methods. 
   certificateURL: "https://www.credly.com/badges/d436a1ea-0e74-4127-a3cf-44ee65f07e25/linked_in_profile"
 
 - name: EY Analytics - Data visualization - Bronze
@@ -40,7 +40,22 @@ accomplishments:
   organization:
     name: EY
     #url: https://www.udemy.com
-  #courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  courseOverview: Earners of this badge have a basic understanding of data visualization fundamental concepts, tools, and applications for machine learning and advanced data analysis. They are able to effectively communicate data insights to drive decision-making and actions by creating reports and presenting data stories. They know how to apply these skills to business problems and are able to effectively communicate their understanding to internal and external parties.
   certificateURL: "https://www.credly.com/badges/63d1cbe4-0ca3-498f-956c-5abe39929135/linked_in_profile"
+- name: Coaching - Foundational
+  #timeline: 
+  organization:
+    name: Grant Thornton US
+    #url: https://www.linuxfoundation.org
+  courseOverview: This course helps explain how to utilize appropriate tools and techniques to facilitate effective feedback and coaching conversations. They are able to effectively convey their understanding of common communication styles, identify one’s own style and the expected behaviors of a coach to build and maintain successful coaching relationships.
+  certificateURL: "https://www.credly.com/badges/d73edc7f-6a58-4a7b-ac88-883fcff863b5/linked_in_profile"
+- name: Diversity, Equity & Inclusion (DE&I) - Foundational
+  #timeline: 
+  organization:
+    name: Grant Thornton US
+    #url: https://www.linuxfoundation.org
+  courseOverview: Earners of this knowledge badge understand the challenges and opportunities inherent in working in diverse organizations. They are able to effectively recognize and acknowledge their own biases, become an ally to others and promote psychological safety
+  certificateURL: "https://www.credly.com/badges/b47011ca-4543-4eb0-aee1-56544feb3026/linked_in_profile"
+
  
 
