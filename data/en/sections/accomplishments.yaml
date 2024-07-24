@@ -11,36 +11,36 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Alteryx Designer Core Certification
+  #timeline: 
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Alteryx
+    #url: https://www.linuxfoundation.org
+  #courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
+  certificateURL: "https://www.credly.com/badges/6452a03a-0434-4413-a142-6fdcc41577d0"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Advanced Microsoft Power BI
+  #timeline: "Jun 2020 - Jan 2021"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: LinkedIn Learning
+    #url: https://www.coursera.org
+  #courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  certificateURL: "https://www.linkedin.com/learning/certificates/295bd313faf80ac74ab141f10a42c27f8e1ff4f0c85d2f497a794ae500c6372d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B03FAlclkTomWur1Wuv%2F8yQ%3D%3D"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: EY Analytics - Data science - Bronze 
+  #timeline: "Jan 2018 - Sept 2018"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: EY
+    #url: https://www.educative.io
+  #courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
+  certificateURL: "https://www.credly.com/badges/d436a1ea-0e74-4127-a3cf-44ee65f07e25/linked_in_profile"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: EY Analytics - Data visualization - Bronze
+  #timeline: "Nov 2017 - Mar 2018"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: EY
+    #url: https://www.udemy.com
+  #courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  certificateURL: "https://www.credly.com/badges/63d1cbe4-0ca3-498f-956c-5abe39929135/linked_in_profile"
  
 
