@@ -38,9 +38,9 @@ experiences:
     #logo: /images/sections/experiences/gt.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Grant Thornton is a leading audit, tax, and advisory firm in the US, providing a range of services to help clients navigate complex business challenges and opportunities.
   positions:
-  - designation: Software Engineer
+  - designation: Senior Associate - Risk Analytics
     start: Jun 2022
     end: Jul 2023
     responsibilities:
@@ -55,7 +55,7 @@ experiences:
     #logo: /images/sections/experiences/ey.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: EY is a Big-4 professional services firm offering audit, tax, consulting, and advisory services to help clients improve business performance and manage risk.
   positions:
   - designation: Business Consultant
     start: Oct 2020
