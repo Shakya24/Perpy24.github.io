@@ -1,4 +1,3 @@
-# section information
 section:
   name: Education
   id: education
@@ -64,7 +63,6 @@ degrees:
     scale: CGPA
     achieved: 8
     outOf: 10
-  
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
@@ -80,6 +78,7 @@ degrees:
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - name: Supervisor
       content: Fusce eu augue ut odio porttitor pulvinar.
+
 - name: Higher Secondary School Certificate
   icon: fa-university
   timeframe: 2010-2012
@@ -98,6 +97,7 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
+
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2005-2010
