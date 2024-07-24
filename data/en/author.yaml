@@ -7,15 +7,15 @@ image: "images/author/Photo-4.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ayushi.s.2023@mitb.smu.edu.sg"
-  phone: "+0123456789"
   github: johndoe
-  linkedin: https://www.linkedin.com/in/ayushakya/
-  researchgate: john-doe
+  linkedin: "https://www.linkedin.com/in/ayushakya/"
+ 
 
 # some summary about what you do
 summary:
   - I am an Engineer
-  - I am a Business Risk Consultant
-  - I am Student Mentor
   - I am an Analytics Major in 2024
+  - I am a former Senior Associate (Risk Analytics)  
+  - I am a former Business Risk Consultant
+  - I am Student Mentor
   - I love creative data visualizations
