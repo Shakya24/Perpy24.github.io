@@ -60,8 +60,11 @@ degrees:
     - name: Data Science for Business
       achieved: 3.75
       outOf: 4
+    - name: Applied Statistical Analysis with R
+      achieved: 3.75
+      outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: SMU MITB Scholarship
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
