@@ -10,18 +10,18 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Master of IT in Business (Analytics)
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2023-2024
   institution:
-    name: ABC University of Technology
-    url: "#"
-    logo: /images/sections/education/tech_college.png
+    name: Singapore Management University
+    #url: "#"
+    #logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
+    scale: GPA
+    achieved: 3.5
     outOf: 4
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -30,22 +30,22 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Bachelor of Technology in Electronics and Communication Engineering
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2013-2017
   institution:
-    name: University of XYZ
-    url: "#"
-    logo: /images/sections/education/university.jpg
+    name: Jaypee Institute of Information Technology, Noida
+    #url: "#"
+    #logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
+    achieved: 8
+    outOf: 10
+  #takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
     - name: Data Structures and Algorithm
