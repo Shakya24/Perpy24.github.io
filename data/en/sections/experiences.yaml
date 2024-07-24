@@ -14,7 +14,7 @@ experiences:
     name: foodpanda
     # url: "https://www.foodpanda.com/#"
     location: Singapore
-    logo: /images/sections/experiences/foodpanda-logo-RGB-stacked.png
+    # logo: /images/sections/experiences/foodpanda-logo-RGB-stacked.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
@@ -35,7 +35,7 @@ experiences:
     name: Grant Thornton LLP (US)
     #url: "https://www.example.com"
     location: Bengaluru, India
-    logo: /images/sections/experiences/gt.png
+    #logo: /images/sections/experiences/gt.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
@@ -52,7 +52,7 @@ experiences:
     name: Ernst & Young
     #url: "https://www.example.com"
     location: Gurugram, India
-    logo: /images/sections/experiences/ey.png
+    #logo: /images/sections/experiences/ey.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
