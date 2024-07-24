@@ -52,9 +52,6 @@ degrees:
     - name: Data Analytics Lab using SAS Viya
       achieved: 3.75
       outOf: 4
-    - name: Python Programming and Data Analysis
-      achieved: 3.75
-      outOf: 4
     - name: Applied Statistical Analysis using R
       achieved: 3.75
       outOf: 4
