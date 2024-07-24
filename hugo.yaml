@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: bn
-title: "Ayushi's Blog"
+title: "Ayushi's Portfolio"
 
 # Use Hugo modules to add theme
 module:
