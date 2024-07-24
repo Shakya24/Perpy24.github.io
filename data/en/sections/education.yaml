@@ -30,6 +30,27 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Python Programming and Data Analysis
+      achieved: 3.75
+      outOf: 4
+    - name: Applied Machine Learning with Python
+      achieved: 3.80
+      outOf: 4
+    - name: Data Science for Business
+      achieved: 3.5
+      outOf: 4
+    - name: Customer Analytics and Applications
+      achieved: 3.75
+      outOf: 4
+    - name: Big Data: Tools and Technologies
+      achieved: 3.75
+      outOf: 4
+      
 - name: Bachelor of Technology in Electronics and Communication Engineering
   icon: fa-graduation-cap
   timeframe: 2013-2017
@@ -43,23 +64,7 @@ degrees:
     scale: CGPA
     achieved: 8
     outOf: 10
-  #takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+  
   publications: #(optional)
   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
