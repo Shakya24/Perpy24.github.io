@@ -30,45 +30,42 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: Master of IT in Business- Analytics
+- name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
-  timeframe: Aug 2023-Nov 2024
+  timeframe: 2012-2016
   institution:
-    name: Singapore Management University
+    name: University of XYZ
     url: "#"
-    logo: /images/sections/education/SMU.png
+    logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/education/SMU.png
+    # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
     scale: CGPA
     achieved: 3.5
     outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
+    showGrades: true
     collapseAfter: 3
     courses:
-    - name: Python Programming and Data Analysis
+    - name: Data Structures and Algorithm
       achieved: 3.75
       outOf: 4
-    - name: Applied Machine Learning with Python
+    - name: Network Security
       achieved: 3.80
       outOf: 4
-    - name: Data Analytics Lab using SAS Viya
+    - name: Operating System
       achieved: 3.5
       outOf: 4
-    - name: Data Science for Business
-      achieved: 3.75
-      outOf: 4
-    - name: Applied Statistical Analysis with R
+    - name: Artificial Intelligent
       achieved: 3.75
       outOf: 4
   publications: #(optional)
-  - title: SMU MITB Scholarship
+  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  #extracurricularActivities: #(optional)
+  extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
