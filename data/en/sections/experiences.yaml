@@ -32,50 +32,50 @@ experiences:
 
   
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Grant Thornton LLP (US)
+    #url: "https://www.example.com"
+    location: Bengaluru, India
+    logo: /images/sections/experiences/gt.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: Jun 2022
+    end: Jul 2023
     responsibilities:
     - Write lots of example codes.
     - Read lots of examples.
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Ernst & Young
+    #url: "https://www.example.com"
+    location: Gurugram, India
+    logo: /images/sections/experiences/ey.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Business Consultant
+    start: Oct 2020
+    end: May 2022
     responsibilities:
     - Count lost of interns.
     - Count more interns.
     - Count me as an intern.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Associate Consultant
+    start: Jul 2019
+    end: Sep 2020
     responsibilities:
     - Implement and test xyz feature for abc tool.
     - Support client for abc tool.
     - Learn k,d,w technology for xyz.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Risk Analyst
+    start: Jun 2017
+    end: Jun 2019
     responsibilities:
     - Implement and test xyz feature for abc tool.
     - Support client for abc tool.
