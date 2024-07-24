@@ -26,19 +26,16 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "ayushi.s.2023@mitb.smu.edu.sg"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Shakya24"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/ayushakya/"
 
 - name: Twitter
   icon: "fab fa-twitter"
