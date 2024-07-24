@@ -43,7 +43,7 @@ degrees:
     scale: CGPA
     achieved: 3.5
     outOf: 4
-  takenCourses: #(optional)
+  Core Courses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     collapseAfter: 3
@@ -68,7 +68,7 @@ degrees:
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  extracurricularActivities: #(optional)
+  #extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
