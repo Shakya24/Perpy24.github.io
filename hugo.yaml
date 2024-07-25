@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Ayushi's Blog"
+    title: "Ayushi's Potfolio"
     weight: 1
   bn:
     languageCode: bn
@@ -53,7 +53,7 @@ outputs:
     - JSON
 
 # Enable global emoji support
-enableEmoji: true
+enableEmoji: false
 
 # Site parameters
 params:
