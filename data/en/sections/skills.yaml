@@ -38,10 +38,10 @@ skills:
   logo: /images/sections/skills/toolsandtech.png
   summary: "Experienced in using RSA Archer for internal audit documentation, Microsoft Visio for process improvement flowcharts, and Subex ROC RA for internal revenue assurance controls and telecom fraud monitoring."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Business Competencies
+  logo: /images/sections/skills/comp.png
+  summary: "Skilled in Internal Audits, Revenue Assurance Audits, Business Process Improvement, SOX Control Testing, Continuous Control Monitoring and Business Development "
+
 
 - name: C++
   logo: /images/sections/skills/c++.png
