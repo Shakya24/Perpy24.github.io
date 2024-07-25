@@ -17,17 +17,17 @@ skills:
 
 - name: Database Querying
   logo: /images/sections/skills/query.png
-  summary: "Hands-on experience with Apache Hive and Google Big Query for query processing and optimization"
-   
-
+  summary: "Hands-on experience with Apache Hive and Google Big Query for advanced SQL query processing and optimization."
+  
 - name: Microsoft Power BI
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/powerbi.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
