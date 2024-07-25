@@ -12,13 +12,14 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Alteryx
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/alteryx.png
   summary: "Alteryx Designer Core Certified—skilled in automating scripts, cleaning data, integrating data from different sources, and building analytical workflows efficiently."
   url: "https://www.alteryx.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: Database Querying
+  logo: /images/sections/skills/query.png
+  summary: "-Hands-on experience with Apache Hive for query processing from a datawarehouse"
+  summary: "-bullet point 2"
   url: "https://golang.org/"
 
 - name: Cloud Computing
