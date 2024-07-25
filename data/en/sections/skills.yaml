@@ -16,12 +16,12 @@ skills:
   url: "https://www.alteryx.com/"
 
 - name: Database Querying
-  logo: /images/sections/skills/query.png
+  logo: /images/sections/skills/hive.png
   summary: "Hands-on experience with Apache Hive and Google Big Query for advanced SQL query processing and optimization."
   
 - name: Microsoft Power BI
   logo: /images/sections/skills/powerbi.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Practical experience with Power Query for data cleaning, DAX for complex calculations, creating drill-through and drill-down reports, implementing row-level security, and developing custom visualizations for enhanced data insights."
   url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
 
 - name: Docker
