@@ -18,9 +18,12 @@ skills:
 
 - name: Database Querying
   logo: /images/sections/skills/query.png
-  summary: "-Hands-on experience with Apache Hive for query processing from a datawarehouse"
-  summary: "-bullet point 2"
-  url: "https://golang.org/"
+  summary:
+    - "Hands-on experience with Apache Hive for query processing from a data warehouse"
+    - "Experience with SQL and NoSQL databases"
+    - "Knowledge of indexing and optimization techniques"
+  #url: "https://golang.org/"
+
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
