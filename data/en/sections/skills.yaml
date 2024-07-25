@@ -12,7 +12,7 @@ section:
 skills:
 - name: Alteryx
   logo: /images/sections/skills/alteryx.png
-  summary: "Alteryx Designer Core Certified—skilled in automating scripts, cleaning data, integrating data from different sources, and building analytical workflows efficiently."
+  summary: "Alteryx Designer Core Certified—skilled in cleaning, transforming and integrating data from different sources, and building automated analytical workflows efficiently."
   url: "https://www.alteryx.com/"
 
 - name: Database Querying
@@ -21,7 +21,7 @@ skills:
   
 - name: Microsoft Power BI
   logo: /images/sections/skills/powerbi.png
-  summary: "Practical experience with Power Query for data cleaning, DAX for complex calculations, creating drill-through and drill-down reports, implementing row-level security, and developing custom visualizations for enhanced data insights."
+  summary: "Practical experience with Power Query for data cleaning and transformation, DAX for complex calculations, creating drill-through and drill-down reports, implementing row-level security, and developing custom visualizations for enhanced data insights."
   url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
 
 - name: Programming Languages
@@ -36,13 +36,9 @@ skills:
 
 - name: Tools 
   logo: /images/sections/skills/toolsandtech.png
-  summary: "Experienced in using RSA Archer for internal audit documentation, Microsoft Visio for process improvement flowcharts, and Subex ROC RA for internal revenue assurance controls and telecom fraud monitoring."
+  summary: "Experienced in using Microsoft Visio for Business Process Improvement flowcharts, RSA Archer for Internal Audit documentation, and Subex ROC RA for Revenue Assurance controls and telecom Fraud Monitoring."
 
 - name: Business Competencies
   logo: /images/sections/skills/comp.png
   summary: "Skilled in Internal Audits, Revenue Assurance Audits, Business Process Improvement, SOX Control Testing, Continuous Control Monitoring and Business Development "
 
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
