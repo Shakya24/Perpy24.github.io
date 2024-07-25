@@ -7,7 +7,7 @@ image: "images/author/Photo-4.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ayushi.s.2023@mitb.smu.edu.sg"
-  github: johndoe
+  #github:
   linkedin: "https://www.linkedin.com/in/ayushakya/"
  
 
