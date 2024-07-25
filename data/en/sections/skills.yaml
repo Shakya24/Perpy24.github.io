@@ -17,10 +17,8 @@ skills:
 
 - name: Database Querying
   logo: /images/sections/skills/query.png
-  summary:
-    - "Hands-on experience with Apache Hive for query processing from a data warehouse"
-    - "Experience with SQL and NoSQL databases"
-    - "Knowledge of indexing and optimization techniques"
+  summary: "Hands-on experience with Apache Hive and Google Big Query for query processing and optimization"
+   
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
