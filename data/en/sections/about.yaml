@@ -56,23 +56,33 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
-  color: blue
+  percentage: 100
+  color: "#BDB2FF"
 
 - type: soft-skill-indicator
   name: Stakeholder Mangement
-  percentage: 90
-  color: yellow
+  percentage: 100
+  color: "#FEC868"
 
 - type: soft-skill-indicator
   name: Cross-culture Collaboration
-  percentage: 95
-  color: orange
+  percentage: 100
+  color: "#9EA1D4"
+
+- type: soft-skill-indicator
+  name: Story-driven Communicator
+  percentage: 100
+  color: "#A8D1D1"
+
+- type: soft-skill-indicator
+  name: Coaching
+  percentage: 100
+  color: "#FFCBCB"
 
 - type: soft-skill-indicator
   name: Problem Solver
-  percentage: 90
-  color: green
+  percentage: 100
+  color: "#FA9BCF"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
