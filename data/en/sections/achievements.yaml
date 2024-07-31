@@ -11,13 +11,13 @@ section:
 # Your achievements achievements
 achievements:
 - title: Kudos
-  image: "https://drive.google.com/file/d/1f3ukuuQnCjyLMvQAlJMgzIVmjG_UNfdt/view"
+  image: /images/sections/achievements/gt.jpeg
   summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
+- title: I am exceptional- Intellectually Stimulating
+  image: /images/sections/achievements/cellc.jpeg
   summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
+- title: Spotlight- Quality Expert
+  image: /images/sections/achievements/spotlight.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
 - title: Award Winner
   image: /images/sections/achievements/woman-winner.jpg
