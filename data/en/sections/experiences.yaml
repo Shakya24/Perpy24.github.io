@@ -26,9 +26,9 @@ experiences:
     end: Jun 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Comprehensive data analytics support and conducting deep dives across various projects, including developing grading metrics for vendor performance, executing root cause analytics to explain business trends, and enhancing visibility on revenue projections and run rates.
+    - Developed automated workflows and business performance dashboards using Tableau, Data Studio and Google Sheets for internal use by the commercial team as well as for external key strategic accounts.
+  
 
   
 - company:
@@ -44,9 +44,9 @@ experiences:
     start: Jun 2022
     end: Jul 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Architected analytics-based risk assessment pertaining to Payroll, Travel & Expense, and Journal Entry analytics for clients across Healthcare, Automotive Manufacturing and Media industries; identified and articulated key trends and insights for non-technical client audiences using Power BI.
+    - Tested Compliance of IT controls against the bench marked standards outlined in the Sarbanes-Oxley Act of 2002 for a leading global insurance client.
+    - Conceptualized and Developed Go-to Market Initiative in collaboration with US Leadership to prepare use cases pertaining to Payroll Risk Analytics; the demo materials contributed to winning 2 new clients for the firm.
 
 - company:
     name: Ernst & Young
