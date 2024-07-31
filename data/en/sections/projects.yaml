@@ -12,12 +12,12 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
+- name: Self Learning
+  filter: "self"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+#- name: Hobby
+#  filter: "hobby"
 
 # your projects
 projects:
