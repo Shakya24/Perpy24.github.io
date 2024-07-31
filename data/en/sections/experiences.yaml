@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: foodpanda is one of the largest food and grocery delivery platform in Asia, with a strong tech infrastructure at its core
+    # overview: foodpanda is one of the largest food and grocery delivery platform in Asia, with a strong tech infrastructure at its core
   positions:
   - designation: Commercial Data Analyst Intern
     start: Dec 2023
@@ -38,7 +38,7 @@ experiences:
     #logo: /images/sections/experiences/gt.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: Grant Thornton is a leading audit, tax, and advisory firm in the US, providing a range of services to help clients navigate complex business challenges and opportunities.
+    # overview: Grant Thornton is a leading audit, tax, and advisory firm in the US, providing a range of services to help clients navigate complex business challenges and opportunities.
   positions:
   - designation: Senior Associate - Risk Analytics
     start: Jun 2022
@@ -55,7 +55,7 @@ experiences:
     #logo: /images/sections/experiences/ey.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: EY is a Big-4 professional services firm offering audit, tax, consulting, and advisory services to help clients improve business performance and manage risk.
+    # overview: EY is a Big-4 professional services firm offering audit, tax, consulting, and advisory services to help clients improve business performance and manage risk.
   positions:
   - designation: Business Consultant
     start: Oct 2020
@@ -81,6 +81,6 @@ experiences:
     end: Jun 2019
     responsibilities:
     - Reviewed and evaluated the Master Service Agreement for Tower companies and ensured Contract Compliance with Telecom billing.
-    - Performed independent business operations audit for a broadband services provider.
-    - Delivered firm wide training on Alteryx and Microsoft Power BI
+    - Supported a Stores Operations Audit including mystery audit visits for a leading telco. 
+    - Delivered firm wide training on Alteryx and Microsoft Power BI.
 
