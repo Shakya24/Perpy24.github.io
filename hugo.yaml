@@ -81,11 +81,11 @@ params:
 
     # Enable dark theme
     darkMode:
-      enable: true
+      enable: false
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
@@ -181,12 +181,12 @@ params:
 
     # Show tags under the post title
     tags:
-      enable: true
+      enable: false
       on_card: true # enables tags in post cards
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
