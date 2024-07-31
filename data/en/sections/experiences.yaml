@@ -26,7 +26,7 @@ experiences:
     end: Jun 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Comprehensive data analytics support and conducting deep dives across mutliple projects, including developing metrics for vendor performance, executing root cause analytics to explain business trends, and enhancing visibility on revenue projections and run rates.
+    - Comprehensive data analytics support and conducting deep dives across mutliple projects, including developing metrics for **vendor performance**, executing **diagnostic analytics** to explain business trends, and enhancing visibility on revenue projections and run rates.
     - Developed **automated workflows** and business performance dashboards using Tableau, Data Studio and Google Sheets for internal use by the commercial team as well as for external key strategic accounts.
   
 
@@ -44,9 +44,9 @@ experiences:
     start: Jun 2022
     end: Jul 2023
     responsibilities:
-    - Architected analytics-based risk assessment pertaining to Payroll, Travel & Expense, and Journal Entry analytics for clients across Healthcare, Automotive Manufacturing and Media industries; identified and articulated key trends and insights for non-technical client audiences using Power BI.
-    - Tested Compliance of IT controls against the bench marked standards outlined in the Sarbanes-Oxley Act of 2002 for a leading global insurance client.
-    - Conceptualized and Developed Go-to Market Initiative in collaboration with US Leadership to prepare use cases pertaining to Payroll Risk Analytics; the demo materials contributed to winning 2 new clients for the firm.
+    - Architected analytics-based risk assessment pertaining to **Payroll, Travel & Expense, and Journal Entry analytics** for clients across Healthcare, Automotive Manufacturing and Media industries; identified and articulated key trends and insights for non-technical client audiences using Power BI.
+    - Tested Compliance of IT controls against the bench marked standards outlined in the **Sarbanes-Oxley Act of 2002** for a leading global insurance client.
+    - Conceptualized and Developed **Go-to Market Initiatives** in collaboration with US Leadership to prepare use cases pertaining to **Payroll Risk Analytics**; the demo materials contributed to winning 2 new clients for the firm.
 
 - company:
     name: Ernst & Young
@@ -61,9 +61,9 @@ experiences:
     start: Oct 2020
     end: May 2022
     responsibilities:
-    - Headed a 5+ member Managed Services Revenue Assurance team and prevented revenue leakage of USD 300K for a leading Telco; optimized reconciliation logics in Apache Hive for 20+ High and Medium risk controls.
-    - Streamlined framework to monitor Capex and deliver a holistic view of installed network assets worth USD $309 Mn across ~32k locations for a leading Telcom operator.
-    - Designed Analytical Scripts in Alteryx for 200+ controls across business functions (Supply Chain, Payroll, Networks, ITGC etc.) to provide early indicators of high and medium risk findings.
+    - Headed a 5+ member Managed Services **Revenue Assurance** team and prevented revenue leakage of **USD 300K** for a leading Telco; optimized reconciliation logics in Apache Hive for 20+ High and Medium risk controls.
+    - Streamlined framework to monitor Capex and deliver a holistic view of installed network assets worth **USD $309 Mn across ~32k locations** for a leading Telcom operator.
+    - Designed Analytical Scripts in **Alteryx for 200+ controls** across business functions (Supply Chain, Payroll, Networks, ITGC etc.) to provide early indicators of high and medium risk findings.
     - Published the trend-based alerts/dashboards of risk indicators to help the client enhance their reporting and action-taking capabilities in Power BI.
     
 
@@ -71,16 +71,16 @@ experiences:
     start: Jul 2019
     end: Sep 2020
     responsibilities:
-    - Conducted Internal Audit for a leading Telecom operator by performing end to end systems reconciliations to highlight operational, financial, and regulatory risk issues.
-    - Identified and assisted client to rectify revenue impacting issues leading to an increase in monthly revenue by USD 125K.
-    - Performed process evaluation and re-design for Order to Cash process to align client’s business with best practices.
-    - Supported Control Operationalization by designing Risk and Control Matrix, KPI and Exceptions Dashboards along with delivering hands-on training to client’s operations team.
+    - Conducted Internal Audit for a leading Telecom operator by performing end to end systems reconciliations to highlight **operational, financial, and regulatory risk** issues.
+    - Identified and assisted client to rectify revenue impacting issues leading to an increase in **monthly revenue by USD 125K**.
+    - Performed process evaluation and re-design for **Order to Cash** process to align client’s business with best practices.
+    - Supported Control Operationalization by designing **Risk and Control Matrix, KPI and Exceptions Dashboards** along with delivering hands-on training to client’s operations team.
 
   - designation: Risk Analyst
     start: Jun 2017
     end: Jun 2019
     responsibilities:
-    - Reviewed and evaluated the Master Service Agreement for Tower companies and ensured Contract Compliance with Telecom billing.
-    - Supported a Stores Operations Audit including mystery audit visits for a leading telco. 
-    - Delivered firm wide training on Alteryx and Microsoft Power BI.
+    - Reviewed and evaluated the Master Service Agreement for **Tower companies** and ensured **Contract Compliance** with Telecom billing.
+    - Supported a **Stores Operations Audit** including mystery audit visits for a leading telco. 
+    - Delivered firm wide training on **Alteryx and Microsoft Power BI**.
 
