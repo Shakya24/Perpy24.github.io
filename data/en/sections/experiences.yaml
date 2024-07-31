@@ -61,23 +61,26 @@ experiences:
     start: Oct 2020
     end: May 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Headed a 5+ member Managed Services Revenue Assurance team and prevented revenue leakage of USD 300K for a leading Telco; optimized reconciliation logics in Apache Hive for 20+ High and Medium risk controls.
+    - Streamlined framework to monitor Capex and deliver a holistic view of installed network assets worth USD $309 Mn across ~32k locations for a leading Telcom operator.
+    - Designed Analytical Scripts in Alteryx for 200+ controls across business functions (Supply Chain, Payroll, Networks, ITGC etc.) to provide early indicators of high and medium risk findings.
+    - Published the trend-based alerts/dashboards of risk indicators to help the client enhance their reporting and action-taking capabilities in Power BI.
+    
 
   - designation: Associate Consultant
     start: Jul 2019
     end: Sep 2020
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Conducted Internal Audit for a leading Telecom operator by performing end to end systems reconciliations to highlight operational, financial, and regulatory risk issues.
+    - Identified and assisted client to rectify revenue impacting issues leading to an increase in monthly revenue by USD 125K.
+    - Performed process evaluation and re-design for Order to Cash process to align client’s business with best practices.
+    - Supported Control Operationalization by designing Risk and Control Matrix, KPI and Exceptions Dashboards along with delivering hands-on training to client’s operations team.
 
   - designation: Risk Analyst
     start: Jun 2017
     end: Jun 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Reviewed and evaluated the Master Service Agreement for Tower companies and ensured Contract Compliance with Telecom billing.
+    - Performed independent business operations audit for a broadband services provider.
+    - Delivered firm wide training on Alteryx and Microsoft Power BI
 
