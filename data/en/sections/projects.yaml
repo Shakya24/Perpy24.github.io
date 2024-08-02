@@ -46,14 +46,14 @@ projects:
   summary:The project delves into the anatomy of CVEs such as Heartbleed, Shellshock, and Log4J. It emphasizes advanced cyber security concepts like code injection, data leakage, and denial of service and discusses common mitigation strategies for vulnerability management.
   tags: ["academic","cybersecurity"]
 
-- name: Nocode
+- name: Loan Default Prediction Using Advanced Data Science Techniques
   logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  #role: Nothing
+  timeline: "March 2024"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://drive.google.com/file/d/18chfTaDoB27l8KS_lAp9emczZ4fCD74D/view?usp=sharing"
+  summary: The project focused on predicting loan defaults using advanced data science techniques. It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. The goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.
+  tags: ["academic", "data science principles","classification models","closed-loop data ecosystem"]
 
 - name: Toha
   logo: /images/sections/projects/toha.png
