@@ -52,7 +52,7 @@ projects:
     #repo: https://github.com/kelseyhightower/nocode
     url: "https://drive.google.com/file/d/18chfTaDoB27l8KS_lAp9emczZ4fCD74D/view?usp=sharing"
     summary: The project focused on predicting loan defaults using advanced data science techniques. It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. The goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.
-    tags: ["academic", "data science principles", "classification models", "closed-loop data ecosystem"]
+    tags: ["academic", "classification models", "closed-loop data ecosystem"]
 
   - name: Toha
     logo: /images/sections/projects/toha.png
