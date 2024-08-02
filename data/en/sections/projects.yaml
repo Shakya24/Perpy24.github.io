@@ -1,4 +1,3 @@
-# section information
 section:
   name: Projects
   id: projects
@@ -10,55 +9,55 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Self Learning
-  filter: "self"
-- name: Academic
-  filter: "academic"
-#- name: Hobby
-#  filter: "hobby"
+  - name: All
+    filter: "all"
+  - name: Self Learning
+    filter: "self"
+  - name: Academic
+    filter: "academic"
+  # - name: Hobby
+  #   filter: "hobby"
 
 # your projects
 projects:
-- name: Credit Card Fraud Detection using Machine Learning
-  logo: /images/sections/projects/aml.png
-  #role: Contributor
-  timeline: "March 2024"
-  #repo: https://github.com/Shakya24/Perpy24.github.io/blob/main/Project%20Report-Applied%20Machine%20Learning%20(G5).pdf # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://drive.google.com/file/d/16ryKweu8u1g7Uo6ltIKe1pJlt8JUhbah/view?usp=sharing"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: The project focused on developing a credit card fraud detection system using machine learning. It involved advanced feature engineering, handling imbalanced datasets, and employing ensemble methods like Random Forest and AdaBoost. The model's effectiveness was enhanced through hyperparameter tuning and iterative learning, achieving high accuracy and recall, thereby providing a robust solution for real-time fraud detection.
-  tags: ["academic", "machine-learning"]
+  - name: Credit Card Fraud Detection using Machine Learning
+    logo: /images/sections/projects/aml.png
+    #role: Contributor
+    timeline: "March 2024"
+    #repo: https://github.com/Shakya24/Perpy24.github.io/blob/main/Project%20Report-Applied%20Machine%20Learning%20(G5).pdf # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    url: "https://drive.google.com/file/d/16ryKweu8u1g7Uo6ltIKe1pJlt8JUhbah/view?usp=sharing"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: The project focused on developing a credit card fraud detection system using machine learning. It involved advanced feature engineering, handling imbalanced datasets, and employing ensemble methods like Random Forest and AdaBoost. The model's effectiveness was enhanced through hyperparameter tuning and iterative learning, achieving high accuracy and recall, thereby providing a robust solution for real-time fraud detection.
+    tags: ["academic", "machine-learning"]
 
-- name: Big Data Architecture Design
-  logo: /images/sections/projects/bigdata.png
-  #role: Developer
-  timeline: "June 2024"
-  #repo: https://github.com/tensorflow/tensorflow
-  url: "https://drive.google.com/file/d/1ZgpWcYesbbzwwWpitJbnIEpaxaFNRp8q/view?usp=sharing"
-  summary: The project aimed to design a scalable big data architecture that leverages open-source tools for efficient data ingestion, storage, and processing. It emphasized autoscaling, real-time and batch processing, high availability, consistency, and integration with advanced analytics tools.
-  tags: ["academic", "Hadoop","cloud computing","data-driven solution"]
+  - name: Big Data Architecture Design
+    logo: /images/sections/projects/bigdata.png
+    #role: Developer
+    timeline: "June 2024"
+    #repo: https://github.com/tensorflow/tensorflow
+    url: "https://drive.google.com/file/d/1ZgpWcYesbbzwwWpitJbnIEpaxaFNRp8q/view?usp=sharing"
+    summary: The project aimed to design a scalable big data architecture that leverages open-source tools for efficient data ingestion, storage, and processing. It emphasized autoscaling, real-time and batch processing, high availability, consistency, and integration with advanced analytics tools.
+    tags: ["academic", "Hadoop", "cloud computing", "data-driven solution"]
 
-- name: Anatomy of Common Security Vulnerabilities and Exposures
-  #role: Team Lead
-  timeline: "March 2024"
-  url: "https://drive.google.com/file/d/1whO8kbfs43ILOF8rdP3UwBzDZxnAt-Un/view?usp=sharing"
-  summary:The project delves into the anatomy of CVEs such as Heartbleed, Shellshock, and Log4J. It emphasizes advanced cyber security concepts like code injection, data leakage, and denial of service and discusses common mitigation strategies for vulnerability management.
-  tags: ["academic","cybersecurity"]
+  - name: Anatomy of Common Security Vulnerabilities and Exposures
+    #role: Team Lead
+    timeline: "March 2024"
+    url: "https://drive.google.com/file/d/1whO8kbfs43ILOF8rdP3UwBzDZxnAt-Un/view?usp=sharing"
+    summary: The project delves into the anatomy of CVEs such as Heartbleed, Shellshock, and Log4J. It emphasizes advanced cyber security concepts like code injection, data leakage, and denial of service and discusses common mitigation strategies for vulnerability management.
+    tags: ["academic", "cybersecurity"]
 
-- name: Loan Default Prediction Using Advanced Data Science Techniques
-  logo: /images/sections/projects/no-code.png
-  #role: Nothing
-  timeline: "March 2024"
-  #repo: https://github.com/kelseyhightower/nocode
-  url: "https://drive.google.com/file/d/18chfTaDoB27l8KS_lAp9emczZ4fCD74D/view?usp=sharing"
-  summary: The project focused on predicting loan defaults using advanced data science techniques. It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. The goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.
-  tags: ["academic", "data science principles","classification models","closed-loop data ecosystem"]
+  - name: Loan Default Prediction Using Advanced Data Science Techniques
+    logo: /images/sections/projects/no-code.png
+    #role: Nothing
+    timeline: "March 2024"
+    #repo: https://github.com/kelseyhightower/nocode
+    url: "https://drive.google.com/file/d/18chfTaDoB27l8KS_lAp9emczZ4fCD74D/view?usp=sharing"
+    summary: The project focused on predicting loan defaults using advanced data science techniques. It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. The goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.
+    tags: ["academic", "data science principles", "classification models", "closed-loop data ecosystem"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  - name: Toha
+    logo: /images/sections/projects/toha.png
+    role: Owner
+    timeline: "Jun 2019 - Present"
+    repo: https://github.com/hossainemruz/toha
+    summary: A Hugo theme for personal portfolio.
+    tags: ["hobby", "hugo", "theme", "professional"]
