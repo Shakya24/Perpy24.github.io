@@ -40,13 +40,14 @@ projects:
 
   - name: Anatomy of Common Security Vulnerabilities and Exposures
     #role: Team Lead
+    logo: /images/sections/projects/cyber.png
     timeline: "March 2024"
     url: "https://drive.google.com/file/d/1whO8kbfs43ILOF8rdP3UwBzDZxnAt-Un/view?usp=sharing"
     summary: The project delves into the anatomy of CVEs such as Heartbleed, Shellshock, and Log4J. It emphasizes advanced cyber security concepts like code injection, data leakage, and denial of service and discusses common mitigation strategies for vulnerability management.
     tags: ["academic", "cybersecurity"]
 
   - name: Loan Default Prediction Using Advanced Data Science Techniques
-    logo: /images/sections/projects/no-code.png
+    logo: /images/sections/projects/ddsb.png
     #role: Nothing
     timeline: "March 2024"
     #repo: https://github.com/kelseyhightower/nocode
@@ -55,7 +56,7 @@ projects:
     tags: ["academic", "classification models", "closed-loop data ecosystem"]
 
   - name: Recycling Rate Analysis for Singapore
-    logo: /images/sections/projects/toha.png
+    logo: /images/sections/projects/excel.png
     #role: Owner
     timeline: "November 2023"
     #repo: https://github.com/hossainemruz/toha
