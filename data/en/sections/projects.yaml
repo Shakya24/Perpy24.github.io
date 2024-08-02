@@ -36,7 +36,7 @@ projects:
     #repo: https://github.com/tensorflow/tensorflow
     url: "https://drive.google.com/file/d/1ZgpWcYesbbzwwWpitJbnIEpaxaFNRp8q/view?usp=sharing"
     summary: The project aimed to design a scalable big data architecture that leverages open-source tools for efficient data ingestion, storage, and processing. It emphasized autoscaling, real-time and batch processing, high availability, consistency, and integration with advanced analytics tools.
-    tags: ["academic", "Hadoop", "cloud computing", "data-driven solution"]
+    tags: ["academic", "Apache Hadoop", "cloud computing", "data-driven solution"]
 
   - name: Anatomy of Common Security Vulnerabilities and Exposures
     #role: Team Lead
@@ -51,7 +51,7 @@ projects:
     timeline: "March 2024"
     #repo: https://github.com/kelseyhightower/nocode
     url: "https://drive.google.com/file/d/18chfTaDoB27l8KS_lAp9emczZ4fCD74D/view?usp=sharing"
-    summary: The project focused on predicting loan defaults using advanced data science techniques. It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. The goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.
+    summary: The project goal was to calculate the probability of default, customize interest rates based on risk profiles, and recommend optimal loan amounts.It involved preprocessing data, feature engineering, and implementing predictive models like Random Forest and Logistic Regression. 
     tags: ["academic", "classification models", "closed-loop data ecosystem"]
 
   - name: Toha
