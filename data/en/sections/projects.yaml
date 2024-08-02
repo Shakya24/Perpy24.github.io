@@ -21,14 +21,14 @@ buttons:
 
 # your projects
 projects:
-- name: 
+- name: Credit Card Fraud Detection using Machine Learning
   logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/Shakya24/Perpy24.github.io/blob/main/Project%20Report-Applied%20Machine%20Learning%20(G5).pdf # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  #role: Contributor
+  timeline: "March 2024"
+  #repo: https://github.com/Shakya24/Perpy24.github.io/blob/main/Project%20Report-Applied%20Machine%20Learning%20(G5).pdf # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://drive.google.com/drive/u/2/folders/1jUg_X2UCpkxBze0s7x_UMpx21nuMcFdR"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  tags: ["academic", "machine-learning"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
