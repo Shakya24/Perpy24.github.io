@@ -2,9 +2,9 @@
 section:
   name: আমার-সম্পর্কে
   id: about
-  enable: true
+  enable: false
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/about.html
 
 # your designation
