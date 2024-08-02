@@ -68,7 +68,7 @@ params:
     favicon: /images/site/logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Shakya24/Perpy24.github.io
   # Default branch of your Git repo
   gitBranch: main
 
