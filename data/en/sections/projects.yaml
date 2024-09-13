@@ -29,6 +29,15 @@ projects:
     summary: The project focused on developing a credit card fraud detection system using machine learning. It involved advanced feature engineering, handling imbalanced datasets, and employing ensemble methods like Random Forest and AdaBoost. The model's effectiveness was enhanced through hyperparameter tuning and iterative learning, achieving high accuracy and recall, thereby providing a robust solution for real-time fraud detection.
     tags: ["academic", "machine-learning"]
 
+  - name: Content based Movie Recommendor System
+    logo: /images/sections/projects/aml.png
+    #role: Contributor
+    timeline: "Jul 2024"
+    #repo: https://github.com/Shakya24/Perpy24.github.io/blob/main/Project%20Report-Applied%20Machine%20Learning%20(G5).pdf # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    #url: "https://drive.google.com/file/d/16ryKweu8u1g7Uo6ltIKe1pJlt8JUhbah/view?usp=sharing"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: This is a content based movie recommender system which was trained on a dataset containing 5000 movies, an end to end machine learning project with GUI web application, which recommends the movies based on user input using cosine similarity. 
+    tags: ["self", "Natural Language Processing","Streamlit"]
+
   - name: Big Data Architecture Design
     logo: /images/sections/projects/bigdata.png
     #role: Developer
