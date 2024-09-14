@@ -30,7 +30,7 @@ projects:
     tags: ["academic", "machine-learning"]
 
   - name: Content based Movie Recommendor System
-    logo: /images/sections/projects/aml.png
+    logo: /images/sections/projects/tmdb.jpg
     #role: Contributor
     timeline: "Jul 2024"
     repo: https://github.com/Shakya24/Recommendor
